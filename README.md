@@ -14,6 +14,8 @@ test test test1
 <h4> tag h4 </h4>
 <h5> tag h5 </h5>
 
+Zmiana w wersji 1.2 - poprawiono czytelnosc, chociaz pozostawia ona duzo do zyczenia.
+
 >Cytat ze znakiem wieszkosci
 
 >Drugi znak wiekszosci  z enterem poprzedzajacaym
