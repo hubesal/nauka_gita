@@ -29,5 +29,7 @@ _Mozna tez **laczyc** te style_
 
 ## CHANGELOG
 
+- 1.3 Usuniecie glitcha powodujacego crash to desktop
+- 1.2 Poprawki czytelnosci
 - 1.1 Nowy do commitowania
 - 1.0 pierwszy official release
