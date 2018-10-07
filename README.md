@@ -13,7 +13,7 @@ test test test1
 <h3> tag h3 </h3>
 <h4> tag h4 </h4>
 <h5> tag h5 </h5>
-
+hjthjktyjtujk
 gghghhgfhhfghghthgfhgh - ale muli
 
 Zmiana w wersji 1.2 - poprawiono czytelnosc, chociaz pozostawia ona duzo do zyczenia.
@@ -29,8 +29,19 @@ _Mozna tez **laczyc** te style_
 
 ![GitHub Logo](https://octodex.github.com/images/vinyltocat.png)
 
-## CHANGELOG
+najwazniejsze komendy:
+```
+- git init
+git *nazwa brancha*
+git add *nazwa pliku*
+git commit -m *"tekst opisu"*
+git remote add origin *sciezka http*
+git push -u origin *nazwa brancha*
+```
+ 
 
+## CHANGELOG
+-1.4.2. Dodanie potrzebnych komend
 - 1.3 Usuniecie glitcha powodujacego crash to desktop
 - 1.2 Poprawki czytelnosci
 - 1.1 Nowy do commitowania
