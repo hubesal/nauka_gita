@@ -2,6 +2,18 @@
 ### Naglowek pod nauka
 ###### naglowek typu h6
 
+````
+git init
+git add
+git status 
+git log
+git commit -m "tekst"
+git remote add origin "http adress"
+git push -u origin "nazwa brancha"
+````
+
+
+
 test test test
 - test
 - lista
