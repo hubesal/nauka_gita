@@ -24,3 +24,8 @@ _Mozna tez **laczyc** te style_
 [GitHub](http://github.com)
 
 ![GitHub Logo](https://octodex.github.com/images/vinyltocat.png)
+
+## CHANGELOG
+
+- 1.1 Nowy do commitowania
+- 1.0 pierwszy official release
