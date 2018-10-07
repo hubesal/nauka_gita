@@ -14,6 +14,8 @@ test test test1
 <h4> tag h4 </h4>
 <h5> tag h5 </h5>
 
+###### tag h6 - zmieniony w wersji 1.4
+
 Zmiana w wersji 1.2 - poprawiono czytelnosc, chociaz pozostawia ona duzo do zyczenia.
 
 >Cytat ze znakiem wieszkosci
@@ -29,6 +31,7 @@ _Mozna tez **laczyc** te style_
 
 ## CHANGELOG
 
+- 1.4 Dodanie tagu h6 z wykorzystaniem symbolu "hash"
 - 1.3 Usuniecie glitcha powodujacego crash to desktop
 - 1.2 Poprawki czytelnosci
 - 1.1 Nowy do commitowania
